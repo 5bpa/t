@@ -1,3 +1,15 @@
+# 설치하기
+
+* tmux 로컬 설치
+```
+./install_tmux_on_gateway.sh
+```
+
+* tmux 설정 설치
+```
+./install_conf.sh
+```
+
 # tmux
 
 실행하기
@@ -44,3 +56,6 @@ tmux a -t <세션 이름>
 * `<prefix> + w` : 윈도우 목록 보기
 * `F1 ~ F10`: 윈도우 1~10번 까지로 바로 이동
 
+# 참고자료
+
+* [00. 클라우드인프라개발팀 개발환경 가이드](http://wiki.nhnent.com/pages/viewpage.action?pageId=265229488)
